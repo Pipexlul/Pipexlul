@@ -1,3 +1,7 @@
+# 💫 About Me:
+
+👋 Hello! I am Felipe Guajardo, a Full Stack developer from Chile :chile:<br>I am absolutely passionate about learning everything from web technologies to low level native languages.<br><br>Here you will find my projects, ranging from learning exercises in Go to assignments and exam implementations for Desafio LATAM's Full Stack JS Course.<br><br>🔭I'm currently working in a full stack app to help neighborhoods in Chile in terms of finances. (More details soon!)<br>:robot: I'm also working in a discord bot called "ConcealBot" to integrate with ElevenLabs API and request and play sounds specified by users, with moderation tools to prevent spam or abuse. (Closed Source until I refactor code a bit)<br>👨‍🎓Finally, I'm working on the final assignments and exams needed to get my certificate from Desafio LATAM's Full Stack JS course.<br><br>💚I love typescript by the way.<br><br>🎯My favorite games are Mass Effect (the ending of the trilogy was amazing) and LittleBigPlanet (It encouraged me to start learning logic)<br><br>Contact me if you'd like to discuss programming projects or anything, really. 😃
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-guajardo-gomez/)
